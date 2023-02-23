@@ -129,7 +129,7 @@ font-size:xx-large;
 
 }
 #profile{
-height:700px;
+height:auto;
 border:1px inset aqua;
 
 border-radius:8px;
@@ -148,7 +148,7 @@ background-color:rgba(240,245,250,0.6);
     font-size: 2rem;
   }
 #profile{
-height:900px;
+height:auto;
 }
 input[type=submit],input[type=reset]{
 font-size:35px;
