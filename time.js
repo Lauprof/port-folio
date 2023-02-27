@@ -68,6 +68,7 @@ window.onload = sendPostRequest();
             }
          }
       }
+*/
 
 let element = document.getElementById("navigation");
 
@@ -88,7 +89,7 @@ element.addEventListener("click",function(){
 });
 
 
-
+/*
       let text = "Lawrence Mburia!";
       let i = 0;
 
