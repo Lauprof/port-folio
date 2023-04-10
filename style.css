@@ -28,8 +28,8 @@ nav ol {
   
 }
 nav ol li {
-  flex:19.95%;
-  padding:3px;
+  flex:15%;
+  padding:5px;
 }
 nav ol li a{
   text-decoration: none;
